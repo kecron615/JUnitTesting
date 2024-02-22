@@ -1,0 +1,24 @@
+INDEX VERSION 1.134+C:\Users\kathe\eclipse-workspace\JUnitTesting\.metadata\.plugins\org.eclipse.jdt.core
+1416908354.index
+1928599485.index
+2065522584.index
+69331294.index
+1865797976.index
+3833979360.index
+2026981266.index
+491563204.index
+1942433035.index
+470020627.index
+3297401443.index
+1194899338.index
+1970971075.index
+3151099900.index
+1203171131.index
+2174628928.index
+3338077973.index
+4250533395.index
+2349592789.index
+2168211075.index
+2421409033.index
+691712989.index
+3413725848.index

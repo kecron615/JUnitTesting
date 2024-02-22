@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.ParameterizedTest"/>
+    <fullyQualifiedTypeName name="com.promineotech.TestDemo"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.Arguments"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.MethodSource"/>
+</qualifiedTypeNameHistroy>
